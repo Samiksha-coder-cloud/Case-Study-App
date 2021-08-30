@@ -28,3 +28,13 @@ body {
     text-align: center;
     border-radius: 15px;
 }
+
+span {
+    font-size: 18px;
+    color: blue;
+}
+
+#image1, #image2 {
+    text-align: center;
+    margin-left: 300px;
+}
